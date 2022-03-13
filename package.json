@@ -1,0 +1,26 @@
+{
+  "name": "Section2Question3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-fetch": "^2.0.0",
+    "playwright": "^1.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PopoTeaTree/Section2Question3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PopoTeaTree/Section2Question3/issues"
+  },
+  "homepage": "https://github.com/PopoTeaTree/Section2Question3#readme",
+  "description": ""
+}
